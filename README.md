@@ -2,7 +2,6 @@
 Efficient Deep learning models (CNN) pytorch implementation on CIFAR 10 and CIFAR 100 datasets 
 
 ### To dos
-- Models 
 - [x] MobileNetV2
 - [x] ShuffleNet
 - [ ] DenseNet
